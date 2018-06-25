@@ -8,6 +8,5 @@ div {border:2px dotted red;}
 .Heading {
   font-style: italic;
   font-size:200%;
-  font-family: name;
-  
+  color:red;
 }
