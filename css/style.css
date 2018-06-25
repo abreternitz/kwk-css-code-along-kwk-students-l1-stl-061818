@@ -7,8 +7,9 @@ div {border:2px dotted red;}
 
 .headingClass {
   font-style: italic;
-  font-size:200%;
-  background-color:orange; 
-  font-family: Comic Sans MS;
+  font-size:400%;
+  font-family: Courier;
+  border:4px dotted blue;
+  
   
 }
