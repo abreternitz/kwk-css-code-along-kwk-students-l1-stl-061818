@@ -5,7 +5,7 @@ body {background-color: #C7CDFF;}
 
 div {border:2px dotted red;}
 
-.Heading {
+.headingClass {
   font-style: italic;
   font-size:200%;
   background-color:orange; 
