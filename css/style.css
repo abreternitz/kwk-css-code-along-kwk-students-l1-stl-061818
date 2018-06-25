@@ -1,1 +1,13 @@
 /* add CSS class and element and selectors here */
+h3 {font-size:300%;}
+
+body {background-color: orange;}
+
+div {border:2px dotted red;}
+
+.Heading {
+  font-style: italic;
+  font-size:200%;
+  font-family: name;
+  
+}
